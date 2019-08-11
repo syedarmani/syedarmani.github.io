@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Finance (Aug 2018 - Present) <br />
+  Frankfurt School of Finance & Management, Frankfurt, Germany
+
+* Bachelor of Technology (Computer Science), 2012 <br /> 
+  Gautam Buddh Technical University, INDIA
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2017 - Jul 2018: Senior Cloud Architect <br />
+  City Network Hosting AB -- Karlskrona, Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Worked as a remote employee in a distributed team.
+  * Provided consulting services and support to customers on OpenStack, Ceph and Kubernetes.
+  * Deployed Ceph based storage solutions on multiple public cloud regions.
+  * Negotiated with the Indian Central Government on a public cloud project.
+  * Reported bugs and contributed code to OpenStack projects.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jan 2013 - Oct 2017: Senior Technical Consultant <br />
+  Hastexo Professional Services GmbH –– Traiskirchen, Austria
+
+  * Worked as a remote employee in a distributed team.
+  * Provided consulting services and support to customers on OpenStack, Ceph and Linux HA.
+  * Writing and reviewing statement of works for customers.
+  * Training course development and systems development.
+  * Reported bugs and contributed code to OpenStack projects.
+ 
+
   
+Technical Skills
+======
+* Programming Languages: Python, C++
+* Data Analysis: NumPy, Pandas
+* Data Visualization: Matplotlib, Plotly, Seaborn, Cufflinks
+* AI libraries: Keras, TensorFlow, PyTorch, Scikit-learn
+* Cloud Platforms: OpenStack, GCP, AWS.
+* Data Mining: Beautiful Soup
+* Database: MySQL
+* Big Data: PySpark
+* Version Control: Git
+* Others: NLTK, Ansible, Jenkins, Kubernetes, Ceph, OpenStack, Freshdesk, HTML, CSS
+ 
+<!--- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->  
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
