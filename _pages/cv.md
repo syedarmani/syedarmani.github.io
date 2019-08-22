@@ -41,16 +41,16 @@ Work experience
   
 Technical Skills
 ======
-* Programming Languages: Python, C++
+* Programming Languages: Python, C
 * Data Analysis: NumPy, Pandas
 * Data Visualization: Matplotlib, Plotly, Seaborn, Cufflinks
-* AI libraries: Keras, TensorFlow, PyTorch, Scikit-learn
+* AI libraries: Keras, TensorFlow, Scikit-learn
 * Cloud Platforms: OpenStack, GCP, AWS.
-* Data Mining: Beautiful Soup
+* Data Scraping: Beautiful Soup, Scrapy
 * Database: MySQL
 * Big Data: PySpark
 * Version Control: Git
-* Others: NLTK, Ansible, Jenkins, Kubernetes, Ceph, OpenStack, Freshdesk, HTML, CSS
+* Others: NLTK, Ansible, Jenkins, Kubernetes, Ceph, OpenStack, Freshdesk, HTML, CSS, JavaScript
  
 <!--- 
 Talks
