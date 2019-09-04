@@ -86,4 +86,12 @@ def parse_html (URL):
 
 
 ```
+Example:
+```python
+#Get the balance sheet of Apple.
+get_balance_sheet("AAPL")
 
+```
+
+<iframe width="100%" height="500" src="/images/plots/balance_sheet.html">Balance Sheet</iframe>
+<br />
