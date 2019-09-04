@@ -1,5 +1,5 @@
 ---
-title: 'Data analysis with pandas'
+title: 'Data Analysis with Pandas'
 date: 2019-08-12
 permalink: /posts/2019/08/pandas/
 tags:

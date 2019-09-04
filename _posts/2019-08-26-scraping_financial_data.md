@@ -1,5 +1,5 @@
 ---
-title: 'Scraping Financial Data From Yahoo Finance.'
+title: 'Scraping Financial Data from Yahoo Finance.'
 date: 2019-09-04
 permalink: /posts/2019/09/scraping/
 tags:
