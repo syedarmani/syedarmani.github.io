@@ -33,7 +33,8 @@ Work experience
 
   * Worked as a remote employee in a distributed team.
   * Provided consulting services and support to customers on OpenStack, Ceph and Linux HA.
-  * Writing and reviewing statement of works for customers.
+  * Engaged in pre-sales activities and price negotiations with customers..
+  * Wrote and reviewed statement of works for customers.
   * Training course development and systems development.
   * Reported bugs and contributed code to OpenStack projects.
  
@@ -45,7 +46,7 @@ Technical Skills
 * Data Analysis: NumPy, Pandas
 * Data Visualization: Matplotlib, Plotly, Seaborn, Cufflinks
 * AI libraries: Keras, TensorFlow, Scikit-learn
-* Cloud Platforms: OpenStack, GCP, AWS.
+* Cloud Platforms: OpenStack, GCP, AWS, Azure.
 * Data Scraping: Beautiful Soup, Scrapy
 * Database: MySQL
 * Big Data: PySpark
