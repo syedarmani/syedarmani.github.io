@@ -22,8 +22,8 @@ Work experience
 * Nov 2017 - Jul 2018: Senior Cloud Architect <br />
   City Network Hosting AB -- Karlskrona, Sweden
 
-  * Worked as a remote employee in a distributed team.
-  * Provided consulting services and support to customers on OpenStack, Ceph and Kubernetes.
+  * Worked remotely in a globally distributed team.
+  * Provided consulting services to customers on OpenStack, Ceph and Kubernetes.
   * Deployed Ceph based storage solutions on multiple public cloud regions.
   * Negotiated with the Indian Central Government on a public cloud project.
   * Reported bugs and contributed code to OpenStack projects.
@@ -31,9 +31,10 @@ Work experience
 * Jan 2013 - Oct 2017: Senior Technical Consultant <br />
   Hastexo Professional Services GmbH –– Traiskirchen, Austria
 
-  * Worked as a remote employee in a distributed team.
-  * Provided consulting services and support to customers on OpenStack, Ceph and Linux HA.
-  * Engaged in pre-sales activities and price negotiations with customers..
+  * Worked remotely in a globally distributed team.
+  * Provided consulting services to customers on OpenStack, Ceph and Linux HA.
+  * Executed on-site/remote deployments of OpenStack and Ceph.
+  * Engaged in pre-sales activities and price negotiations with customers.
   * Wrote and reviewed statement of works for customers.
   * Training course development and systems development.
   * Reported bugs and contributed code to OpenStack projects.
