@@ -1,7 +1,7 @@
 ---
 title: 'Stock Price Predictions with LSTM.'
-date: 2019-09-06
-permalink: /posts/2019/09/stocks-lstm
+date: 2020-03-02
+permalink: /posts/2019/03/stocks-lstm
 tags:
   - Finance
   - Python

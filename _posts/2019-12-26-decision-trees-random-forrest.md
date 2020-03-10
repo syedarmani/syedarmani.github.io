@@ -1,7 +1,7 @@
 ---
 title: 'Decision Trees and Random Forrest'
-date: 2019-08-26
-permalink: /posts/2019/08/random-forrest/
+date: 2019-12-26
+permalink: /posts/2019/12/random-forrest101/
 tags:
   - Artificial Intelligence
   - Python

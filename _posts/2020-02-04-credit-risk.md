@@ -1,7 +1,7 @@
 ---
 title: 'Credit Risk Analysis with Machine Learning, Part 1.'
-date: 2019-09-04
-permalink: /posts/2019/09/credit-risk/
+date: 2020-02-04
+permalink: /posts/2020/04/credit-risk/
 tags:
   - Finance
   - Python

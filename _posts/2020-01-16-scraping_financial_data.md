@@ -1,7 +1,7 @@
 ---
 title: 'Scraping Financial Data from Yahoo Finance.'
-date: 2019-09-04
-permalink: /posts/2019/09/scraping/
+date: 2020-01-16
+permalink: /posts/2020/01/scraping101/
 tags:
   - Finance
   - Python

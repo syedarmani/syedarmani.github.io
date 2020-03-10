@@ -1,7 +1,7 @@
 ---
 title: 'Equity Research with Python, Part 1'
-date: 2019-09-15
-permalink: /posts/2019/09/equity-research-part-1
+date: 2020-03-10
+permalink: /posts/2020/03/equity-research1
 tags:
   - Finance
   - Python

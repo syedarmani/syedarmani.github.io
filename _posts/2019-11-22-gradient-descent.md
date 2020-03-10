@@ -1,7 +1,7 @@
 ---
 title: 'Gradient Descent'
-date: 2019-08-22
-permalink: /posts/2019/08/gradient-descent/
+date: 2019-11-22
+permalink: /posts/2019/11/gradient-descent101/
 tags:
   - Artificial Intelligence
   - Python

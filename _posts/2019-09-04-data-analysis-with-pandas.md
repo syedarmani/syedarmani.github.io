@@ -1,7 +1,7 @@
 ---
 title: 'Data Analysis with Pandas'
-date: 2019-08-12
-permalink: /posts/2019/08/pandas/
+date: 2019-09-4
+permalink: /posts/2019/09/pandas101/
 tags:
   - Artificial Intelligence
   - Python

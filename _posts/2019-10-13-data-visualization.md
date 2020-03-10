@@ -1,7 +1,8 @@
 ---
 title: 'Data Visualization with Matplotlib, Plotly and Seaborn'
-date: 2019-08-13
-permalink: /posts/2019/08/data-visualization/
+date: 2019-10-13
+last_modified_at: 2019-10-13
+permalink: /posts/2019/10/data-visualization101/
 tags:
   - Artificial Intelligence
   - Python
